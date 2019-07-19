@@ -1,1 +1,1 @@
-# AKKA-study
+# akka-study
